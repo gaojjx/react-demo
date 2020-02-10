@@ -1,0 +1,10 @@
+.normal {
+  background: #ffffff;
+  text-align: center;
+  padding: 40px;
+  margin: 40px auto;
+}
+
+.login-form {
+  max-width: 300px;
+}

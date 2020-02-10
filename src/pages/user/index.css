@@ -1,0 +1,10 @@
+.normal {
+  background: #ffffff;
+  padding: 8px;
+}
+
+.bulkRecovery {
+  margin: 8px 0;
+  height: 32px;
+  text-align: left;
+}

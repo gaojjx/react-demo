@@ -1,0 +1,12 @@
+.normal {
+  background: #ffffff;
+}
+
+.create {
+  text-align: right;
+  margin: 1.5em 0;
+}
+
+.create button {
+  margin-right: 8px;  
+}
